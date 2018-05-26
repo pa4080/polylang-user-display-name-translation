@@ -24,10 +24,10 @@ Additional notes, instructions, and references are presented in the plugin body.
     <!-- dnt: The Display Name Translation to be Displayed -->
     ````
   
-    ![Examples of usages 1.](./images/polylang-user-display-name-translation.png)
+    ![Examples of usages 1.](.images/polylang-user-display-name-translation.png)
     
 4. Now go to your site and check the result.
 
-    ![Examples of usages 1.](./images/polylang-user-display-name-translation-result.png)
+    ![Examples of usages 2.](.images/polylang-user-display-name-translation-result.png)
 
 
