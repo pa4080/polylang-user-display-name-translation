@@ -28,9 +28,9 @@
 	който (коментар) трябва да има формат, като тоизи представен долу.
   
  	At the moment the WP plugin Polylang doesn't support translation of the users display names. 
-  The following funcions will replace the user's display name with the content of an HTM comment, 
-  placed within the user's description field (that can be translated). 
-  The comment should have the below format.
+ 	The following funcions will replace the user's display name with the content of an HTM comment, 
+ 	placed within the user's description field (that can be translated). 
+ 	The comment should have the below format.
 
 	Български (Bulgarian):
 		<!-- dnt: ИТБИ -->
